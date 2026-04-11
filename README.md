@@ -1,5 +1,9 @@
 #AI TEAM
 
-#정규민♡김찬호
+machine arm self-moving(기계공학 진로)
 
-#규민이
+Open Cv, adoino
+
+##고빈도 매매 프로그램(금융권 진로)
+
+csv,server connect 증권사api
